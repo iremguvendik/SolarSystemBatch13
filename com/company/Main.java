@@ -15,6 +15,8 @@ public class Main {
         omaro.radius=1234554545454;
         omaro.color="pink";
 
+        System.out.println("xx");
+
 
 
     }
