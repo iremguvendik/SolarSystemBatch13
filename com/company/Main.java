@@ -12,7 +12,7 @@ public class Main {
         SUN omaro=new SUN();
         omaro.temperature="12334433kj";
         omaro.name="ferro";
-        omaro.radius=1234554545454;
+        omaro.radius=12354;
         omaro.color="pink";
 
         System.out.println("xx");
