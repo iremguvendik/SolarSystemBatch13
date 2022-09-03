@@ -15,7 +15,7 @@ public class Main {
         omaro.radius=12354;
         omaro.color="pink";
 
-        System.out.println("xx");
+        System.out.println("PROBLEM IS SOLVED");
 
 
 
