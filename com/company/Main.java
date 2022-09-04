@@ -17,6 +17,11 @@ public class Main {
 
         System.out.println("PROBLEM IS SOLVED");
 
+        Planet2 superwoman=new Planet2();
+        superwoman.size="89899890km";
+        superwoman.name="pliea";
+        superwoman.color="green";
+
 
 
     }
