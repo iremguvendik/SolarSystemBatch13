@@ -17,6 +17,12 @@ public class Main {
 
         System.out.println("PROBLEM IS SOLVED");
 
+        Planet1 superplanet=new Planet1();
+        superplanet.color="magenta";
+        superplanet.name="hash";
+        superplanet.size="545488km";
+
+
 
 
     }
